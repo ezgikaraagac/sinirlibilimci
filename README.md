@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sinirlibilimci
+- 👋 Hi, I’m Ezgi Karaağaç
 - 👀 I’m interested in #Computational_Science, #AI and #Machine_Learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on AI
